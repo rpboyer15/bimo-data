@@ -19,8 +19,9 @@ Stated here because the Arphic license, CC BY-SA and the LGPL ask for it.
 
 - **strokes.json** (Arphic): one file for the whole deck instead of one per
   character; each entry keeps the stroke outlines as SVG path strings and
-  the stroke medians as point lists, in the 1024-unit box of the source;
-  characters outside the deck are omitted. No glyph was redrawn.
+  the stroke medians as point lists exactly as the source has them, in
+  its 1024-unit box; characters outside the deck are omitted. No glyph
+  was redrawn or simplified.
 - **chardetails.json** (LGPL): the radical field is taken from Unihan
   rather than Make Me a Hanzi's; component roles (meaning, sound) and
   the origin notes were corrected and rewritten where scholarship
