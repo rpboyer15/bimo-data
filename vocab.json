@@ -8911,10 +8911,9 @@
   "word": "刚",
   "pinyin": "gāng",
   "definitions": [
-   "hard",
-   "firm",
-   "strong",
-   "just"
+   "just; just now",
+   "hard; firm",
+   "strong"
   ],
   "level": 3,
   "cedict": [
@@ -9496,10 +9495,10 @@
   "word": "封",
   "pinyin": "fēng",
   "definitions": [
-   "to confer",
-   "to grant",
-   "to bestow a title",
-   "to seal"
+   "to seal",
+   "measure word for letters",
+   "to confer (a title)",
+   "to grant"
   ],
   "level": 3,
   "cedict": [
@@ -9820,9 +9819,9 @@
  },
  {
   "word": "故事",
-  "pinyin": "gù shì",
+  "pinyin": "gù shi",
   "definitions": [
-   "old practice"
+   "story; tale"
   ],
   "level": 3,
   "cedict": [
@@ -10651,10 +10650,10 @@
   "word": "挺",
   "pinyin": "tǐng",
   "definitions": [
-   "straight",
+   "quite; rather",
+   "straight; to straighten up",
    "erect",
-   "to stick out (a part of the body)",
-   "to (physically) straighten up"
+   "to stick out (a part of the body)"
   ],
   "level": 3,
   "cedict": [
@@ -18254,6 +18253,7 @@
   "word": "云",
   "pinyin": "yún",
   "definitions": [
+   "cloud",
    "(classical) to say"
   ],
   "level": 4,
@@ -20058,10 +20058,9 @@
   "word": "演",
   "pinyin": "yǎn",
   "definitions": [
-   "to develop",
-   "to evolve",
-   "to practice",
-   "to perform"
+   "to perform; to act",
+   "to develop; to evolve",
+   "to practice"
   ],
   "level": 4,
   "cedict": [
@@ -22266,8 +22265,8 @@
   "word": "棒",
   "pinyin": "bàng",
   "definitions": [
-   "stick",
-   "club",
+   "great; excellent",
+   "stick; club",
    "cudgel",
    "smart"
   ],
@@ -23142,10 +23141,10 @@
  },
  {
   "word": "生意",
-  "pinyin": "shēng yì",
+  "pinyin": "shēng yi",
   "definitions": [
-   "life force",
-   "vitality"
+   "business; trade",
+   "vitality (read shēng yì)"
   ],
   "level": 4,
   "cedict": [
@@ -26088,10 +26087,10 @@
   "word": "咸",
   "pinyin": "xián",
   "definitions": [
+   "salty",
    "all",
    "everyone",
-   "each",
-   "widespread"
+   "each"
   ],
   "level": 4,
   "cedict": [
@@ -27908,10 +27907,10 @@
   "word": "处",
   "pinyin": "chǔ",
   "definitions": [
+   "to deal with; to get along with",
+   "place (read chù)",
    "to reside",
-   "to live",
-   "to dwell",
-   "to be in"
+   "to live"
   ],
   "level": 5,
   "cedict": [
@@ -30599,6 +30598,8 @@
   "word": "网络",
   "pinyin": "wǎng luò",
   "definitions": [
+   "network",
+   "the Internet",
    "Internet"
   ],
   "level": 5,
@@ -35884,10 +35885,8 @@
   "word": "使得",
   "pinyin": "shǐ de",
   "definitions": [
-   "usable",
-   "workable",
-   "feasible",
-   "doable"
+   "to make; to cause",
+   "workable; feasible"
   ],
   "level": 5,
   "cedict": [
@@ -46336,7 +46335,8 @@
   "word": "早晚",
   "pinyin": "zǎo wǎn",
   "definitions": [
-   "morning and evening"
+   "morning and evening",
+   "sooner or later"
   ],
   "level": 5,
   "cedict": [
@@ -50008,9 +50008,9 @@
   "word": "人家",
   "pinyin": "rén jiā",
   "definitions": [
-   "household",
+   "other people; someone else",
+   "household; family",
    "dwelling",
-   "family",
    "sb else's house"
   ],
   "level": 6,
@@ -55437,7 +55437,7 @@
  },
  {
   "word": "策略",
-  "pinyin": "cè lu:è",
+  "pinyin": "cè lüè",
   "definitions": [
    "strategy; tactics",
    "crafty; adroit"
@@ -55699,11 +55699,9 @@
  },
  {
   "word": "大都",
-  "pinyin": "dà dū",
+  "pinyin": "dà dōu",
   "definitions": [
-   "for the most part",
-   "on the whole",
-   "metropolitan"
+   "for the most part; mostly"
   ],
   "level": 6,
   "cedict": [
@@ -59259,10 +59257,8 @@
   "word": "心灵",
   "pinyin": "xīn líng",
   "definitions": [
-   "bright",
-   "smart",
-   "quick-witted",
-   "heart"
+   "soul; heart; mind",
+   "quick-witted"
   ],
   "level": 6,
   "cedict": [
@@ -64028,7 +64024,7 @@
  },
  {
   "word": "忽略",
-  "pinyin": "hū lu:è",
+  "pinyin": "hū lüè",
   "definitions": [
    "to neglect; to overlook; to ignore"
   ],
@@ -67063,9 +67059,10 @@
  },
  {
   "word": "看好",
-  "pinyin": "kān hǎo",
+  "pinyin": "kàn hǎo",
   "definitions": [
-   "to keep an eye on"
+   "to be optimistic about; to favor",
+   "to look after (read kān hǎo)"
   ],
   "level": 6,
   "cedict": [
@@ -70161,6 +70158,7 @@
   "word": "台风",
   "pinyin": "tái fēng",
   "definitions": [
+   "typhoon",
    "stage presence, poise"
   ],
   "level": 6,
@@ -71016,8 +71014,7 @@
   "word": "下功夫",
   "pinyin": "xià gōng fu",
   "definitions": [
-   "to put in effort",
-   "see 夫"
+   "to put in effort; to work hard at"
   ],
   "level": 6,
   "cedict": [
